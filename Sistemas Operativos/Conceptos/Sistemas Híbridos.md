@@ -1,0 +1,2 @@
+- Combinación entre los sistemas por lotes e interactivos
+- Los usuarios tienen acceso al sistema pero los programas se ejecutan por lotes

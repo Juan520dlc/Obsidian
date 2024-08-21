@@ -1,0 +1,1 @@
+Las estructuras WHILE establecen una condición 

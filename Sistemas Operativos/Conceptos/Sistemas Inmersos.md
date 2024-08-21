@@ -1,0 +1,1 @@
+Son computadoras colocadas dentro de otro producto con el objetivo de añadir características y capacidades

@@ -1,0 +1,2 @@
+- Mecanismo de entrada/salida que permitía que una computadora de propósito específico, mucho más económica y limitada
+- La computadora central guardaba sus resultados en cinta para que equipos especializados la leyeran e imprimieran para el usuario solicitante

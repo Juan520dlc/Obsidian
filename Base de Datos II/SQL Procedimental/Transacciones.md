@@ -1,0 +1,1 @@
+Una transacción es un conjunto de procedimientos que se ejecutan dentro de un bloque de código SQL, el cual puede ser confirmado o reversado según su resultado.
