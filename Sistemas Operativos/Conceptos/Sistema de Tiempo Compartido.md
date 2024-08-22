@@ -1,3 +1,0 @@
-- Los usuarios comparten recursos, memoria principal, tiempo de ejecución del CPU
-- Varios procesos son ejecutados al mismo tiempo
-- Tiempo de respuesta más rápido al depurar los programas (milisegundos)

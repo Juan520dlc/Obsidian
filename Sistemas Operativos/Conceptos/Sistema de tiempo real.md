@@ -1,1 +1,0 @@
-- Se usan en entornos de tiempo crítico donde la confiabilidad es crucial y los datos deben procesarse

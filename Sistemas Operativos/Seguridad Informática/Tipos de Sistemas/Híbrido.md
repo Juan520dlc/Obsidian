@@ -1,1 +1,0 @@
-Sistemas que son mayormente monolíticos pero que manejan algunos procesos que parecerían centrales mediante de procesos de nivel usuario como los MicroKernel.
