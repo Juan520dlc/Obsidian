@@ -1,0 +1,1 @@
+Permite almacenar una cadena de longitud máxima de 4,294,967,295 caracteres.

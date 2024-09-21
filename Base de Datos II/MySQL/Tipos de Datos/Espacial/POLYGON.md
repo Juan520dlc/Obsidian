@@ -1,0 +1,1 @@
+Permite almacenar un polígono.

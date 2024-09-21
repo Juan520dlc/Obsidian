@@ -1,0 +1,1 @@
+Permite almacenar un BLOB de longitud máxima de 4.294,967,295 bytes.

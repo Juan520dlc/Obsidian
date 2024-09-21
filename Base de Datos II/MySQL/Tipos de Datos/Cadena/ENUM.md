@@ -1,0 +1,1 @@
+Permite definir una lista de posibles valores que pueden almacenarse. La longitud máxima es de 65,535. Si se intenta introducir un valor que no esté incluido en la lista, se insertará valor vacío.

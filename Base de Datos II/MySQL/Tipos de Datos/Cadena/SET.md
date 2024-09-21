@@ -1,0 +1,1 @@
+Permite definir una lista de posibles valores que pueden almacenarse. La longitud máxima es de 64. Los valores posibles se pueden combinar.

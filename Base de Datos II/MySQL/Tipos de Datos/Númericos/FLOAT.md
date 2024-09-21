@@ -1,0 +1,1 @@
+Permite almacena números decimales de punto flotante pequeños, por lo que sus cálculos son aproximados

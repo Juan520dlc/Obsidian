@@ -4,18 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "78a75d3513a0a0fc",
+        "id": "34a4ef09bd4bb12d",
         "type": "tabs",
         "children": [
           {
-            "id": "50118ef180fe495f",
+            "id": "82dfa7ea2dbd1182",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c251b3682df4b6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos/Scripts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c315f4dcf68cf11",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a6295ac3f632eb5d",
@@ -81,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sistemas Operativos/Scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sistemas Operativos/Scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,28 +145,113 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Sistemas Operativos/Scripts.md"
+              }
+            }
+          },
+          {
+            "id": "e1bfbd7727fb24d2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
+            }
+          },
+          {
+            "id": "4575492eba9a3680",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "be567dee2b53a586",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a0330af42a7a6503",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-brat:BRAT": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "random-note:Abrir nota al azar": false
     }
   },
-  "active": "2252a9fa75edb28b",
-  "lastOpenFiles": []
+  "active": "9c251b3682df4b6f",
+  "lastOpenFiles": [
+    "Sistemas Operativos/Samba.md",
+    "Base de Datos II/MySQL/MySQL.md",
+    "Sistemas Operativos/Scripts.md",
+    "README.md",
+    "Untitled Kanban.md",
+    "2024-09-20.md",
+    "Base de Datos II/MySQL/Tipos de Datos/Númericos/TINYINT.md",
+    "Base de Datos II/MySQL/Transacciones MysQL.md",
+    "Base de Datos II/MySQL/Tipos de Datos/Númericos/MEDIUMINT.md",
+    "Base de Datos II/MySQL/Tipos de Datos/Númericos/FLOAT.md",
+    "Base de Datos II/MySQL/Tipos de Datos/Númericos/DECIMAL.md",
+    "Base de Datos II/MySQL/Tipos de Datos/Númericos/BIGINT.md",
+    "Base de Datos II/MySQL/Tipos de Datos/Cadena/ENUM.md",
+    "Base de Datos II/MySQL/Tipos de Datos/Fecha y Hora/TIMESTAMP.md",
+    "Base de Datos II/MySQL/Tipos de Datos/Fecha y Hora/YEAR.md",
+    "Base de Datos II/MySQL/Tipos de Datos/Fecha y Hora/TIME.md",
+    "Base de Datos II/MySQL/Tipos de Datos/Númericos/DOUBLE.md",
+    "Base de Datos II/MySQL/Tipos de Datos/Númericos/INT.md",
+    "Base de Datos II/MySQL/Tipos de Datos/Númericos/SMALLINT.md",
+    "Numéricos.md",
+    "Base de Datos II/MySQL/Tipos de Datos/Espacial/GEOMETRYCOLLECTION.md",
+    "Base de Datos II/MySQL/Tipos de Datos/Espacial/MULTIPOLYGON.md",
+    "Base de Datos II/MySQL/Tipos de Datos/Espacial/MULTILINESTRING.md",
+    "Base de Datos II/MySQL/Tipos de Datos/Espacial/MULTIPOINT.md",
+    "Base de Datos II/MySQL/Tipos de Datos/Espacial/POLYGON.md",
+    "Base de Datos II/MySQL/Tipos de Datos/Espacial/LINESTRING.md",
+    "Base de Datos II/MySQL/Conceptos",
+    "Sistemas Operativos/Pasted image 20240906205428.png",
+    "Ingeniería del Software/Diccionario de Datos.png",
+    "Ingeniería del Software/Diagrama E-R.png",
+    "Ingeniería del Software/Diagrama de Flujo de Datos.png",
+    "Base de Datos II/MySQL/Tipos de Datos/JSON",
+    "Base de Datos II/MySQL/Tipos de Datos/Espacial",
+    "Base de Datos II/MySQL/Tipos de Datos/Cadena",
+    "Base de Datos II/MySQL/Tipos de Datos/Fecha y Hora",
+    "Base de Datos II/MySQL/Tipos de Datos/Númericos",
+    "Base de Datos II/MySQL/Tipos de Datos",
+    "Sistemas Operativos/Raid 6",
+    "Base de Datos II/MySQL",
+    "Ingeniería del Software",
+    "Estructura de datos II/Sin título.canvas",
+    "Sin título.canvas"
+  ]
 }

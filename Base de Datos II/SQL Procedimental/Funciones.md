@@ -1,0 +1,1 @@
+Es un grupo de enunciados procedimentales, con nombre, que devuelve un valor. Tienen la misma funcionalidad que las funciones en programación

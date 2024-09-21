@@ -1,0 +1,1 @@
+Permite almacenar una cadena de datos (caracteres, números y caracteres especiales) con longitud variable. No reserva el espacio de la longitud máxima definida, ya que ocupa espacio del tamaño real de los datos. La longitud máxima es de 255.

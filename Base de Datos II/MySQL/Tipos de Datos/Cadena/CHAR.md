@@ -1,0 +1,1 @@
+Permite almacenar una cadena de datos con longitud fija. Siempre reservará espacio para la longitud definida aunque no se utilice. La longitud máxima es de 255.

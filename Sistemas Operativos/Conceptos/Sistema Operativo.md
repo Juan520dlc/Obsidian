@@ -1,0 +1,1 @@
+Un Sistema Operativo actúa como un intermediario entre el usuario de una computadora y el hardware de la misma

@@ -1,0 +1,1 @@
+Permite almacenar objetos geométricos de cualquier tipo.

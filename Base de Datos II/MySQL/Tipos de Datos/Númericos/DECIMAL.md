@@ -1,0 +1,1 @@
+Permite almacenar números decimales de punto fijo grandes, por lo que sus cálculos son exactos

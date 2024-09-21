@@ -1,0 +1,1 @@
+Permite almacenar una cadena de datos (solo caracteres; no admite números ni caracteres especiales) de una longitud máxima de 255 caracteres.

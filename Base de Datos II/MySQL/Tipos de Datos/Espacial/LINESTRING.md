@@ -1,0 +1,1 @@
+Permite almacenar una cadena de puntos.

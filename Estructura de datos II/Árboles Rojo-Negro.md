@@ -1,3 +1,4 @@
+Tipo de [[Árbol Binario de Búsqueda]]
 ## Propiedades
  1. **Color del nodo:** Cada nodo es rojo o negro
 2. **Propiedad de la raíz:** la raíz del árbol siempre es negra

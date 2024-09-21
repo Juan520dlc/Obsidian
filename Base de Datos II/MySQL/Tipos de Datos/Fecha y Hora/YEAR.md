@@ -1,0 +1,1 @@
+Permite almacenar el año con el formato YYYY (4 dígitos para los años).

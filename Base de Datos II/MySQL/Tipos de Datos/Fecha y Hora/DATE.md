@@ -1,0 +1,1 @@
+Permite almacenar una fecha con el formato YYYY-MM-DD (4 dígitos para el año, 2 dígitos para el mes y 2 dígitos para el día)

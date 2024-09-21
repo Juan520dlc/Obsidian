@@ -1,0 +1,1 @@
+Permite almacenar la hora con el formato HH:MM:SS (2 dígitos para las horas, 2 dígitos para los minutos y 2 dígitos para los segundos).

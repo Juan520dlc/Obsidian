@@ -1,0 +1,1 @@
+Permite almacenar valores de cualquier tipo espacial.

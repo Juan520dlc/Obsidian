@@ -1,0 +1,1 @@
+Grupo de una o varias instrucciones Transact-SQL. Estos tienen la capacidad de recibir parámetros y pueden devolver un valor determinado
