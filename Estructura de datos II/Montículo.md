@@ -58,3 +58,5 @@ procedimiento intercambiar(entero: i) {
 	}
 }
 ```
+
+![[Montículo 2024-09-23 09.16.26.excalidraw]]

@@ -8,39 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82dfa7ea2dbd1182",
+            "id": "a061532daa08efd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Node RBT.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9c251b3682df4b6f",
+            "id": "7653e92f7ea43bdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Operativos/Scripts.md",
+                "file": "Repaso.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0c315f4dcf68cf11",
+            "id": "9f3b2ed4a513ad14",
             "type": "leaf",
             "state": {
-              "type": "mindmap",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-23 13.39.49.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "8623e497155d3f2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operativos/Scripts.md",
+                "file": "Excalidraw/Drawing 2024-09-23 13.39.49.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operativos/Scripts.md",
+                "file": "Excalidraw/Drawing 2024-09-23 13.39.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operativos/Scripts.md"
+                "file": "Excalidraw/Drawing 2024-09-23 13.39.49.excalidraw.md"
               }
             }
           },
@@ -206,16 +220,33 @@
       "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
-      "random-note:Abrir nota al azar": false
+      "random-note:Abrir nota al azar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c251b3682df4b6f",
+  "active": "be567dee2b53a586",
   "lastOpenFiles": [
-    "Sistemas Operativos/Samba.md",
-    "Base de Datos II/MySQL/MySQL.md",
+    "Repaso.md",
+    "Excalidraw/Drawing 2024-09-23 13.39.49.excalidraw.md",
+    "Node RBT.md",
+    "Estructura de datos II/Montículo.md",
+    "Estructura de datos II/Tablas Hash.md",
+    "Estructura de datos II/Árbol Binario de Búsqueda.md",
+    "Excalidraw/Node RBT.excalidraw.md",
+    "Home.md",
+    "Estructura de datos II/Árboles Rojo-Negro.md",
+    "Excalidraw/Montículo 2024-09-23 09.16.26.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-23 09.00.34.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-23 08.58.08.excalidraw.md",
+    "Base de Datos II/SQL Procedimental/Declaración de Variables.md",
+    "Base de Datos II/MySQL/Tipos de Datos/Espacial/MULTIPOLYGON.md",
+    "Estructura de datos II/Sin título.canvas",
+    "Untitled Kanban.md",
     "Sistemas Operativos/Scripts.md",
     "README.md",
-    "Untitled Kanban.md",
+    "Excalidraw",
+    "Sistemas Operativos/Samba.md",
+    "Base de Datos II/MySQL/MySQL.md",
     "2024-09-20.md",
     "Base de Datos II/MySQL/Tipos de Datos/Númericos/TINYINT.md",
     "Base de Datos II/MySQL/Transacciones MysQL.md",
@@ -223,20 +254,6 @@
     "Base de Datos II/MySQL/Tipos de Datos/Númericos/FLOAT.md",
     "Base de Datos II/MySQL/Tipos de Datos/Númericos/DECIMAL.md",
     "Base de Datos II/MySQL/Tipos de Datos/Númericos/BIGINT.md",
-    "Base de Datos II/MySQL/Tipos de Datos/Cadena/ENUM.md",
-    "Base de Datos II/MySQL/Tipos de Datos/Fecha y Hora/TIMESTAMP.md",
-    "Base de Datos II/MySQL/Tipos de Datos/Fecha y Hora/YEAR.md",
-    "Base de Datos II/MySQL/Tipos de Datos/Fecha y Hora/TIME.md",
-    "Base de Datos II/MySQL/Tipos de Datos/Númericos/DOUBLE.md",
-    "Base de Datos II/MySQL/Tipos de Datos/Númericos/INT.md",
-    "Base de Datos II/MySQL/Tipos de Datos/Númericos/SMALLINT.md",
-    "Numéricos.md",
-    "Base de Datos II/MySQL/Tipos de Datos/Espacial/GEOMETRYCOLLECTION.md",
-    "Base de Datos II/MySQL/Tipos de Datos/Espacial/MULTIPOLYGON.md",
-    "Base de Datos II/MySQL/Tipos de Datos/Espacial/MULTILINESTRING.md",
-    "Base de Datos II/MySQL/Tipos de Datos/Espacial/MULTIPOINT.md",
-    "Base de Datos II/MySQL/Tipos de Datos/Espacial/POLYGON.md",
-    "Base de Datos II/MySQL/Tipos de Datos/Espacial/LINESTRING.md",
     "Base de Datos II/MySQL/Conceptos",
     "Sistemas Operativos/Pasted image 20240906205428.png",
     "Ingeniería del Software/Diccionario de Datos.png",
@@ -250,8 +267,6 @@
     "Base de Datos II/MySQL/Tipos de Datos",
     "Sistemas Operativos/Raid 6",
     "Base de Datos II/MySQL",
-    "Ingeniería del Software",
-    "Estructura de datos II/Sin título.canvas",
     "Sin título.canvas"
   ]
 }
