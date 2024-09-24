@@ -11,16 +11,14 @@
             "id": "a061532daa08efd6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Node RBT.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Node RBT.excalidraw.md"
               }
             }
           },
           {
-            "id": "7653e92f7ea43bdb",
+            "id": "c66b881948cb0829",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,17 +30,37 @@
             }
           },
           {
-            "id": "9f3b2ed4a513ad14",
+            "id": "efdf641c45fa9724",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-23 13.39.49.excalidraw.md"
+                "file": "Excalidraw/Repaso 2024-09-24 08.53.06.excalidraw.md"
               }
             }
           },
           {
-            "id": "8623e497155d3f2e",
+            "id": "007e4faff6027a33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos/CRON.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a461c9f86e6681d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f3b2ed4a513ad14",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -120,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-23 13.39.49.excalidraw.md",
+                "file": "Excalidraw/Repaso 2024-09-24 08.53.06.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-23 13.39.49.excalidraw.md",
+                "file": "Excalidraw/Repaso 2024-09-24 08.53.06.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-23 13.39.49.excalidraw.md"
+                "file": "Excalidraw/Repaso 2024-09-24 08.53.06.excalidraw.md"
               }
             }
           },
@@ -224,36 +242,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be567dee2b53a586",
+  "active": "efdf641c45fa9724",
   "lastOpenFiles": [
     "Repaso.md",
+    "Excalidraw/Repaso 2024-09-24 08.53.06.excalidraw.md",
+    "Sistemas Operativos/2024-09-06.md",
+    "Sistemas Operativos/CRON.md",
+    "2024-09-10.md",
+    "2024-09-20.md",
+    "Para el Viernes.md",
+    "Programación II/REVISAR.md",
+    "XOR.md",
+    "Programación II",
+    "Excalidraw/Scripts (Ejemplos) 2024-09-23 18.30.49.excalidraw.md",
+    "Excalidraw/Node RBT.excalidraw.md",
+    "Excalidraw/CRON 2024-09-23 18.59.20.excalidraw.md",
+    "Home.md",
+    "Sistemas Operativos/Scripts (Ejemplos).md",
+    "Base de Datos II/MySQL/MySQL.md",
+    "Excalidraw/Montículo 2024-09-23 09.16.26.excalidraw.md",
+    "Estructura de datos II/Node RBT.md",
     "Excalidraw/Drawing 2024-09-23 13.39.49.excalidraw.md",
-    "Node RBT.md",
     "Estructura de datos II/Montículo.md",
     "Estructura de datos II/Tablas Hash.md",
     "Estructura de datos II/Árbol Binario de Búsqueda.md",
-    "Excalidraw/Node RBT.excalidraw.md",
-    "Home.md",
     "Estructura de datos II/Árboles Rojo-Negro.md",
-    "Excalidraw/Montículo 2024-09-23 09.16.26.excalidraw.md",
     "Excalidraw/Drawing 2024-09-23 09.00.34.excalidraw.md",
     "Excalidraw/Drawing 2024-09-23 08.58.08.excalidraw.md",
     "Base de Datos II/SQL Procedimental/Declaración de Variables.md",
     "Base de Datos II/MySQL/Tipos de Datos/Espacial/MULTIPOLYGON.md",
     "Estructura de datos II/Sin título.canvas",
-    "Untitled Kanban.md",
-    "Sistemas Operativos/Scripts.md",
-    "README.md",
     "Excalidraw",
-    "Sistemas Operativos/Samba.md",
-    "Base de Datos II/MySQL/MySQL.md",
-    "2024-09-20.md",
-    "Base de Datos II/MySQL/Tipos de Datos/Númericos/TINYINT.md",
-    "Base de Datos II/MySQL/Transacciones MysQL.md",
-    "Base de Datos II/MySQL/Tipos de Datos/Númericos/MEDIUMINT.md",
-    "Base de Datos II/MySQL/Tipos de Datos/Númericos/FLOAT.md",
-    "Base de Datos II/MySQL/Tipos de Datos/Númericos/DECIMAL.md",
-    "Base de Datos II/MySQL/Tipos de Datos/Númericos/BIGINT.md",
     "Base de Datos II/MySQL/Conceptos",
     "Sistemas Operativos/Pasted image 20240906205428.png",
     "Ingeniería del Software/Diccionario de Datos.png",
@@ -266,7 +285,6 @@
     "Base de Datos II/MySQL/Tipos de Datos/Númericos",
     "Base de Datos II/MySQL/Tipos de Datos",
     "Sistemas Operativos/Raid 6",
-    "Base de Datos II/MySQL",
     "Sin título.canvas"
   ]
 }
