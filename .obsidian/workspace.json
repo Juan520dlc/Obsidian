@@ -4,75 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "34a4ef09bd4bb12d",
+        "id": "b360ddcf62b1c699",
         "type": "tabs",
         "children": [
           {
-            "id": "a061532daa08efd6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Node RBT.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "c66b881948cb0829",
+            "id": "b923aac7548e3cec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repaso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efdf641c45fa9724",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Repaso 2024-09-24 08.53.06.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "007e4faff6027a33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas Operativos/CRON.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a461c9f86e6681d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "9f3b2ed4a513ad14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
+                "file": "RBT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,8 +64,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "e3aa970267fd6388",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -138,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Repaso 2024-09-24 08.53.06.excalidraw.md",
+                "file": "Excalidraw/RBT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Repaso 2024-09-24 08.53.06.excalidraw.md",
+                "file": "Excalidraw/RBT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Repaso 2024-09-24 08.53.06.excalidraw.md"
+                "file": "Excalidraw/RBT.md"
               }
             }
           },
@@ -227,6 +183,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -239,52 +198,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
       "random-note:Abrir nota al azar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "callout-manager:Insert Callout": false
     }
   },
-  "active": "efdf641c45fa9724",
+  "active": "be567dee2b53a586",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-27 18.31.47.excalidraw.md",
+    "Excalidraw/RBT.md",
+    "Sin título.md",
+    "RBT.md",
+    "Vault.md",
+    "Home.md",
     "Repaso.md",
-    "Excalidraw/Repaso 2024-09-24 08.53.06.excalidraw.md",
-    "Sistemas Operativos/2024-09-06.md",
     "Sistemas Operativos/CRON.md",
+    "Base de Datos II/SQL Procedimental/Declaración de Variables.md",
+    "Base de Datos II/MySQL/Tipos de Datos/Cadena/BLOB.md",
+    "Base de Datos II/MySQL/MySQL.md",
+    "Tags",
+    "Excalidraw/Parcial 2 2024-09-25 19.30.10.excalidraw.md",
+    "Parcial 2.md",
+    "Ingeniería del Software/Análisis de viabilidad.md",
+    "Ingeniería del Software/Caso 6.md",
+    "Ingeniería del Software/Diagrama de Flujo de Datos.png",
+    "Excalidraw/Repaso 2024-09-24 08.53.06.excalidraw.md",
+    "Base de Datos II/MySQL/Tipos de Datos/Númericos/DECIMAL.md",
+    "Base de Datos II/MySQL/Tipos de Datos/Númericos/TINYINT.md",
+    "Estructura de datos II/Montículo.md",
+    "Estructura de datos II/Node RBT.md",
+    "Excalidraw/Node RBT.excalidraw.md",
+    "Sistemas Operativos/2024-09-06.md",
     "2024-09-10.md",
     "2024-09-20.md",
     "Para el Viernes.md",
     "Programación II/REVISAR.md",
-    "XOR.md",
     "Programación II",
-    "Excalidraw/Scripts (Ejemplos) 2024-09-23 18.30.49.excalidraw.md",
-    "Excalidraw/Node RBT.excalidraw.md",
-    "Excalidraw/CRON 2024-09-23 18.59.20.excalidraw.md",
-    "Home.md",
-    "Sistemas Operativos/Scripts (Ejemplos).md",
-    "Base de Datos II/MySQL/MySQL.md",
-    "Excalidraw/Montículo 2024-09-23 09.16.26.excalidraw.md",
-    "Estructura de datos II/Node RBT.md",
-    "Excalidraw/Drawing 2024-09-23 13.39.49.excalidraw.md",
-    "Estructura de datos II/Montículo.md",
-    "Estructura de datos II/Tablas Hash.md",
-    "Estructura de datos II/Árbol Binario de Búsqueda.md",
-    "Estructura de datos II/Árboles Rojo-Negro.md",
-    "Excalidraw/Drawing 2024-09-23 09.00.34.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-23 08.58.08.excalidraw.md",
-    "Base de Datos II/SQL Procedimental/Declaración de Variables.md",
-    "Base de Datos II/MySQL/Tipos de Datos/Espacial/MULTIPOLYGON.md",
     "Estructura de datos II/Sin título.canvas",
     "Excalidraw",
     "Base de Datos II/MySQL/Conceptos",
     "Sistemas Operativos/Pasted image 20240906205428.png",
     "Ingeniería del Software/Diccionario de Datos.png",
     "Ingeniería del Software/Diagrama E-R.png",
-    "Ingeniería del Software/Diagrama de Flujo de Datos.png",
     "Base de Datos II/MySQL/Tipos de Datos/JSON",
     "Base de Datos II/MySQL/Tipos de Datos/Espacial",
     "Base de Datos II/MySQL/Tipos de Datos/Cadena",
     "Base de Datos II/MySQL/Tipos de Datos/Fecha y Hora",
     "Base de Datos II/MySQL/Tipos de Datos/Númericos",
     "Base de Datos II/MySQL/Tipos de Datos",
-    "Sistemas Operativos/Raid 6",
     "Sin título.canvas"
   ]
 }
