@@ -1,0 +1,1 @@
+![[Scripts (Ejemplos) 2024-09-23 18.30.49.excalidraw]]

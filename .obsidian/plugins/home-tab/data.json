@@ -1,0 +1,54 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Excalidraw/RBT.md",
+      "timestamp": 1727488876235
+    },
+    {
+      "filepath": "Excalidraw/Drawing 2024-09-27 18.31.47.excalidraw.md",
+      "timestamp": 1727483507658
+    },
+    {
+      "filepath": "Sin título.md",
+      "timestamp": 1727483458359
+    },
+    {
+      "filepath": "RBT.md",
+      "timestamp": 1727451191220
+    },
+    {
+      "filepath": "Vault.md",
+      "timestamp": 1727450478070
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true
+}

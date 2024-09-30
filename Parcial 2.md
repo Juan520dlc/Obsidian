@@ -1,0 +1,1 @@
+![[Parcial 2 2024-09-25 19.30.10.excalidraw]]

@@ -8,5 +8,18 @@
   "table-editor-obsidian",
   "obsidian-mind-map",
   "homepage",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-advanced-uri",
+  "callout-manager",
+  "dataview",
+  "google-calendar",
+  "highlightr-plugin",
+  "home-tab",
+  "make-md",
+  "settings-search",
+  "obsidian-style-settings",
+  "obsidian-tasks-plugin",
+  "templater-obsidian",
+  "obsidian-tracker",
+  "obsidian-textgenerator-plugin"
 ]
