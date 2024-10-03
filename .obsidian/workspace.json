@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b360ddcf62b1c699",
+        "id": "79a6abf1c7b45a30",
         "type": "tabs",
         "children": [
           {
-            "id": "b923aac7548e3cec",
+            "id": "eb04f917411aa387",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RBT.md",
+                "file": "Repaso.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/RBT.md",
+                "file": "Repaso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/RBT.md",
+                "file": "Repaso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/RBT.md"
+                "file": "Repaso.md"
               }
             }
           },
@@ -202,15 +202,18 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "be567dee2b53a586",
+  "active": "eb04f917411aa387",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-27 18.31.47.excalidraw.md",
-    "Excalidraw/RBT.md",
-    "Sin título.md",
-    "RBT.md",
-    "Vault.md",
-    "Home.md",
+    "Excalidraw/Repaso 2024-09-24 08.53.06.excalidraw.md",
     "Repaso.md",
+    "Caso 6 (Parcial II).md",
+    "Ingeniería del Software/Ingeniería del Software.md",
+    "Home.md",
+    "RBT.md",
+    "Excalidraw/RBT.md",
+    "Excalidraw/Drawing 2024-09-27 18.31.47.excalidraw.md",
+    "Sin título.md",
+    "Vault.md",
     "Sistemas Operativos/CRON.md",
     "Base de Datos II/SQL Procedimental/Declaración de Variables.md",
     "Base de Datos II/MySQL/Tipos de Datos/Cadena/BLOB.md",
@@ -221,7 +224,6 @@
     "Ingeniería del Software/Análisis de viabilidad.md",
     "Ingeniería del Software/Caso 6.md",
     "Ingeniería del Software/Diagrama de Flujo de Datos.png",
-    "Excalidraw/Repaso 2024-09-24 08.53.06.excalidraw.md",
     "Base de Datos II/MySQL/Tipos de Datos/Númericos/DECIMAL.md",
     "Base de Datos II/MySQL/Tipos de Datos/Númericos/TINYINT.md",
     "Estructura de datos II/Montículo.md",
@@ -230,8 +232,6 @@
     "Sistemas Operativos/2024-09-06.md",
     "2024-09-10.md",
     "2024-09-20.md",
-    "Para el Viernes.md",
-    "Programación II/REVISAR.md",
     "Programación II",
     "Estructura de datos II/Sin título.canvas",
     "Excalidraw",
