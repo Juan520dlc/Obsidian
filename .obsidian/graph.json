@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Sistemas Operativos\"  ",
@@ -34,6 +34,20 @@
         "a": 1,
         "rgb": 291011
       }
+    },
+    {
+      "query": "path:Videojuego  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:\"Estructura de datos II\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
     }
   ],
   "collapse-display": false,
@@ -43,9 +57,16 @@
   "lineSizeMultiplier": 2.18326403326403,
   "collapse-forces": false,
   "centerStrength": 0.483367983367983,
+<<<<<<< Updated upstream
   "repelStrength": 8.58627858627859,
   "linkStrength": 1,
   "linkDistance": 251,
   "scale": 0.5142431200985248,
+=======
+  "repelStrength": 9.91683991683992,
+  "linkStrength": 1,
+  "linkDistance": 251,
+  "scale": 0.36679699938868243,
+>>>>>>> Stashed changes
   "close": false
 }

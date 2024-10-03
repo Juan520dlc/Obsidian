@@ -1,8 +1,11 @@
+<<<<<<< Updated upstream
 ---
 excalidraw-plugin: parsed
 tags:
   - excalidraw
 ---
+=======
+>>>>>>> Stashed changes
 ## ¿Cómo insertar un nuevo nodo?
 ```
 procedimiento insertar(entero dato) //* = puntero
@@ -31,6 +34,7 @@ fin_procedimiento
 
 BST = Árbol Binario de Búsqueda (No es balanceable por defecto)
 
+<<<<<<< Updated upstream
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
 
@@ -52,3 +56,5 @@ KFJULVKURfog0Tf0RYVIRNaOcw2AUsqAAavznElpRrRt+AdNwlznHE8Rooi6KYti8RvqURhsAY3D5pA9
 MmyhkwWWS4/j3Dkp9HzYIslukNbvYcLr9uOwWwhQB+xZWwgiulHYABWCDYDkDTO3AGNYzjeOAaghOOTy6uMP0T34CbpSzKpYTBCHnbalRZIGAtcxoF1f5sABBMEFu76hKVufJ6n37KqB4AVnQirBHmYFlkAA
 ```
 %%
+=======
+>>>>>>> Stashed changes
