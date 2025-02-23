@@ -1,0 +1,1 @@
+![[Proyecto 2024-10-06 10.50.41.excalidraw]]

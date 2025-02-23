@@ -1,0 +1,1 @@
+![[Project Management 2024-10-23 20.10.02.excalidraw]]

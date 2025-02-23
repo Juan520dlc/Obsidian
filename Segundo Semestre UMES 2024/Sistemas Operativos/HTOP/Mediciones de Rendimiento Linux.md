@@ -1,0 +1,1 @@
+![[Segundo Semestre UMES 2024/Sistemas Operativos/Mediciones de Rendimiento Linux]]

@@ -1,0 +1,4 @@
+---
+aliases:
+  - Documentación "Tiendita Online"
+---

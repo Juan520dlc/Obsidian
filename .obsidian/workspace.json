@@ -1,22 +1,24 @@
 {
   "main": {
-    "id": "a3a031d3de5d1c8a",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "79a6abf1c7b45a30",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "eb04f917411aa387",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repaso.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -62,15 +68,19 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           },
           {
-            "id": "e3aa970267fd6388",
+            "id": "74460374180e81f2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
-              "state": {}
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ],
@@ -78,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 219.5
   },
   "right": {
     "id": "a6295ac3f632eb5d",
@@ -94,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repaso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -111,10 +122,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repaso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -125,7 +137,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -133,9 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Repaso.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Esquema"
             }
           },
           {
@@ -143,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -151,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -159,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -171,7 +191,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
             }
           }
         ],
@@ -202,49 +224,55 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "eb04f917411aa387",
+  "active": "be567dee2b53a586",
   "lastOpenFiles": [
-    "Excalidraw/Repaso 2024-09-24 08.53.06.excalidraw.md",
-    "Repaso.md",
-    "Caso 6 (Parcial II).md",
-    "Ingeniería del Software/Ingeniería del Software.md",
+    "Ingeniería del Software II/Clase 19-02.md",
+    "Ingeniería del Software II/Clase 12-02.md",
+    "Antropología Filosófica/AP-07-02.excalidraw.md",
+    "Antropología Filosófica/Clase 7 de febrero.md",
+    "Antropología Filosófica/Antropología Filosófica.md",
+    "Antropología Filosófica",
+    "Ingeniería del Software II/Clase 05-02.md",
+    "Ingeniería del Software II/Clase 29-01.md",
+    "Ingeniería del Software II/Clase 22-01.md",
     "Home.md",
-    "RBT.md",
-    "Excalidraw/RBT.md",
-    "Excalidraw/Drawing 2024-09-27 18.31.47.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-24 17.59.11.excalidraw.md",
+    "Sin título 1.md",
+    "Base de Datos III/Clase 24-01.md",
+    "Base de Datos III/Base de Datos III.md",
+    "Base de Datos III",
+    "Programación Web/Clase 21-01.md",
+    "Programacion III/Clase 21-01.md",
+    "Segundo Semestre UMES 2024/Ingeniería del Software/Repaso.md",
+    "Ingeniería del Software II/Ingeniería del Software II.md",
+    "Ingeniería del Software II",
+    "Excalidraw/Drawing 2025-01-21 12.33.59.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-20 18.24.59.excalidraw.md",
+    "Programación Web/Programación Web.md",
+    "Programación Web",
+    "Excalidraw/Drawing 2025-01-20 12.28.13.excalidraw.md",
     "Sin título.md",
-    "Vault.md",
-    "Sistemas Operativos/CRON.md",
-    "Base de Datos II/SQL Procedimental/Declaración de Variables.md",
-    "Base de Datos II/MySQL/Tipos de Datos/Cadena/BLOB.md",
-    "Base de Datos II/MySQL/MySQL.md",
-    "Tags",
-    "Excalidraw/Parcial 2 2024-09-25 19.30.10.excalidraw.md",
-    "Parcial 2.md",
-    "Ingeniería del Software/Análisis de viabilidad.md",
-    "Ingeniería del Software/Caso 6.md",
-    "Ingeniería del Software/Diagrama de Flujo de Datos.png",
-    "Base de Datos II/MySQL/Tipos de Datos/Númericos/DECIMAL.md",
-    "Base de Datos II/MySQL/Tipos de Datos/Númericos/TINYINT.md",
-    "Estructura de datos II/Montículo.md",
-    "Estructura de datos II/Node RBT.md",
-    "Excalidraw/Node RBT.excalidraw.md",
-    "Sistemas Operativos/2024-09-06.md",
-    "2024-09-10.md",
-    "2024-09-20.md",
-    "Programación II",
-    "Estructura de datos II/Sin título.canvas",
-    "Excalidraw",
-    "Base de Datos II/MySQL/Conceptos",
-    "Sistemas Operativos/Pasted image 20240906205428.png",
-    "Ingeniería del Software/Diccionario de Datos.png",
-    "Ingeniería del Software/Diagrama E-R.png",
-    "Base de Datos II/MySQL/Tipos de Datos/JSON",
-    "Base de Datos II/MySQL/Tipos de Datos/Espacial",
-    "Base de Datos II/MySQL/Tipos de Datos/Cadena",
-    "Base de Datos II/MySQL/Tipos de Datos/Fecha y Hora",
-    "Base de Datos II/MySQL/Tipos de Datos/Númericos",
-    "Base de Datos II/MySQL/Tipos de Datos",
+    "Programacion III/Programacion III.md",
+    "Programacion III",
+    "Excalidraw/Drawing 2024-12-15 19.41.21.excalidraw.md",
+    "Segundo Semestre UMES 2024/Estructura de datos II/RBT.md",
+    "Documentación Tiendita Online.md",
+    "Segundo Semestre UMES 2024",
+    "Outlier",
+    "Outlier/Pasted image 20241024125701.png",
+    "Outlier/Pasted image 20241024012906.png",
+    "Segundo Semestre UMES 2024/Proyecto Progra/Imagenes/Pasted Image 20241006141501_020.png",
+    "Outlier/Pasted image 20241024013542.png",
+    "Outlier/Pasted image 20241024013155.png",
+    "Outlier/Pasted image 20241024013039.png",
+    "Segundo Semestre UMES 2024/Proyecto Progra/Imagenes",
+    "Segundo Semestre UMES 2024/Proyecto Progra",
+    "Segundo Semestre UMES 2024/Sistemas Operativos/HTOP/Pasted Image 20241004210053_213.png",
+    "Segundo Semestre UMES 2024/Sistemas Operativos/HTOP/Pasted Image 20241004212547_485.png",
+    "Segundo Semestre UMES 2024/Sistemas Operativos/HTOP/Pasted Image 20241004211647_348.png",
+    "Segundo Semestre UMES 2024/Sistemas Operativos/HTOP",
+    "Segundo Semestre UMES 2024/Sistemas Operativos/HTOP/Pasted Image 20241004211800_558.png",
+    "Segundo Semestre UMES 2024/Estructura de datos II/Sin título.canvas",
     "Sin título.canvas"
   ]
 }

@@ -1,0 +1,1 @@
+![[Segundo Semestre UMES 2024/Base de Datos II/Patron de Arquitectura N-Capas]]
