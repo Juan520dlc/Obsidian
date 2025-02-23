@@ -20,8 +20,22 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "e7e785799d8f1145",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "2024-08-22.md",
+                "staged": true
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (2024-08-22)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,8 +238,24 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "be567dee2b53a586",
+  "active": "e7e785799d8f1145",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "XOR.md",
+    "Transacciones MysQL.md",
+    "REVISAR.md",
+    "Pasted image 20240906205428.png",
+    "Para el Viernes.md",
+    "Kernel.md",
+    "Excalidraw/Repaso 2024-09-24 13.03.32.excalidraw.md",
+    "Estructura de datos II/Sin título.canvas",
+    "Estructura de datos II",
+    "Diccionario de Datos.png",
+    "Diagrama de Flujo de Datos.png",
+    "Diagrama E-R.png",
+    "2024-09-06.md",
+    "2024-08-27.md",
+    "2024-08-22.md",
     "Ingeniería del Software II/Clase 19-02.md",
     "Ingeniería del Software II/Clase 12-02.md",
     "Antropología Filosófica/AP-07-02.excalidraw.md",
@@ -244,19 +274,9 @@
     "Programación Web/Clase 21-01.md",
     "Programacion III/Clase 21-01.md",
     "Segundo Semestre UMES 2024/Ingeniería del Software/Repaso.md",
-    "Ingeniería del Software II/Ingeniería del Software II.md",
     "Ingeniería del Software II",
-    "Excalidraw/Drawing 2025-01-21 12.33.59.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-20 18.24.59.excalidraw.md",
-    "Programación Web/Programación Web.md",
     "Programación Web",
-    "Excalidraw/Drawing 2025-01-20 12.28.13.excalidraw.md",
-    "Sin título.md",
-    "Programacion III/Programacion III.md",
     "Programacion III",
-    "Excalidraw/Drawing 2024-12-15 19.41.21.excalidraw.md",
-    "Segundo Semestre UMES 2024/Estructura de datos II/RBT.md",
-    "Documentación Tiendita Online.md",
     "Segundo Semestre UMES 2024",
     "Outlier",
     "Outlier/Pasted image 20241024125701.png",
@@ -267,11 +287,6 @@
     "Outlier/Pasted image 20241024013039.png",
     "Segundo Semestre UMES 2024/Proyecto Progra/Imagenes",
     "Segundo Semestre UMES 2024/Proyecto Progra",
-    "Segundo Semestre UMES 2024/Sistemas Operativos/HTOP/Pasted Image 20241004210053_213.png",
-    "Segundo Semestre UMES 2024/Sistemas Operativos/HTOP/Pasted Image 20241004212547_485.png",
-    "Segundo Semestre UMES 2024/Sistemas Operativos/HTOP/Pasted Image 20241004211647_348.png",
-    "Segundo Semestre UMES 2024/Sistemas Operativos/HTOP",
-    "Segundo Semestre UMES 2024/Sistemas Operativos/HTOP/Pasted Image 20241004211800_558.png",
     "Segundo Semestre UMES 2024/Estructura de datos II/Sin título.canvas",
     "Sin título.canvas"
   ]
